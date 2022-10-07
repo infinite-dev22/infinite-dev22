@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pair Programming
 - 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me:
+- 📫 How to reach me mail-to:mwigojm@outlook.com
 
 <!---
 infinite-dev22/infinite-dev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
