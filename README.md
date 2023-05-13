@@ -1,8 +1,9 @@
-|![programmer life](https://github.com/infinite-dev22/infinite-dev22/assets/77667007/8f548690-72d2-468b-b260-71e69a4cb0b6) |- 👋 Hi, I’m @infinite-dev22|
-- 👀 I’m interested in Pair Programming|
-- 🌱 I’m currently learning Spring Framework|
-- 💞️ I’m looking to collaborate on Any Project|
-- 📫 How to reach me mwigojm@outlook.com|
+![programmer life](https://github.com/infinite-dev22/infinite-dev22/assets/77667007/8f548690-72d2-468b-b260-71e69a4cb0b6)
+- 👋 Hi, I’m @infinite-dev22
+- 👀 I’m interested in Pair Programming
+- 🌱 I’m currently learning Spring Framework
+- 💞️ I’m looking to collaborate on Any Project
+- 📫 How to reach me mwigojm@outlook.com
 
 <!---
 infinite-dev22/infinite-dev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
