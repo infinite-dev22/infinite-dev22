@@ -7,10 +7,12 @@ Jonathan Mark is Java developer with years of experience in software development
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/infinite-dev22/infinite-dev22/assets/77667007/8f548690-72d2-468b-b260-71e69a4cb0b6">
 </a>
-* 🌍  I'm based in Kampala, UG
-* ✉️  You can contact me at [mwigojm@gmail.com](mailto:mwigojm@gmail.com)
-* 🧠  I'm learning MaterialFX
-* 🤝  I'm open to collaborating on any projects
+- 🌍  I'm based in Kampala, UG
+- ✉️  You can contact me at [mwigojm@gmail.com](mailto:mwigojm@gmail.com)
+- 👨‍💻  I'm currently working on an ERP system(Java and JavaFX)
+- 🧠  I'm learning MaterialFX
+- 🤝  I'm open to collaborating on any projects
+- 🤓  I'm available for freelance
 
 <a href="https://www.github.com/infinite-dev22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/infinite-dev22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
