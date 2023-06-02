@@ -27,7 +27,7 @@ Jonathan Mark is Java developer with years of experience in software development
 - 🤝  I'm open to collaborating on any projects
 - 🤓  I'm available for freelance
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3 align="center">Skills</h3>
 
