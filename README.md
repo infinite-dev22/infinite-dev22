@@ -7,7 +7,7 @@ Developer | Oracle Database Admin
 ---------------------------------
 
 Jonathan Mark is Java developer with years of experience in software development and database administration
-
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 * 🌍  I'm based in Kampala, UG
 * ✉️  You can contact me at [mwigojm@gmail.com](mailto:mwigojm@gmail.com)
 * 🧠  I'm learning MaterialFX
