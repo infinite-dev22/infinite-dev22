@@ -20,10 +20,10 @@ Jonathan Mark is Java developer with years of experience in software development
 <a href="https://www.github.com/infinite-dev22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/infinite-dev22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+<h3 align="center">Skills</h3>
 
 
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
