@@ -64,4 +64,4 @@ src="https://img.shields.io/github/followers/infinite-dev22?logo=github&style=fo
 <a href="https://www.buymeacoffee.com/jonmarkM"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
-![](https://visitcount.itsvg.in/api?id=infinite-dev22&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=infinite-dev22&label=Profile%20Views&pretty=true)
