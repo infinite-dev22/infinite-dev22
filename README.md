@@ -27,7 +27,7 @@ Jonathan Mark is Java developer with years of experience in software development
 - 🤝  I'm open to collaborating on any projects
 - 🤓  I'm available for freelance
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 <h3 align="left">Skills</h3>
 
@@ -47,17 +47,15 @@ Jonathan Mark is Java developer with years of experience in software development
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-<br /><br />
+<br />
 
 <h3 align="left">Socials</h3>
 
 <p align="left"> <a href="https://www.dev.to/jonathanmarkm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/infinite-dev22#5583" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/infinite-dev22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-mark-mwigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@@mwigojm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15981431" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-<br /><br />
+<br />
 
-<h3 align="center">Badges</h3>
-
-<b>My GitHub Stats</b>
+<h3 align="left">My GitHub Stats</h3>
 
 <div width="100%" align="left"><a href="http://www.github.com/infinite-dev22" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=infinite-dev22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="infinite-dev22's GitHub stats" /></a><a href="http://www.github.com/infinite-dev22" align"right"><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=infinite-dev22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
