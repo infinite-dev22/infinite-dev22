@@ -61,8 +61,7 @@ Jonathan Mark is Java developer with years of experience in software development
 
 <div align="left"><a href="https://github.com/infinite-dev22" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinite-dev22&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a><a href="https://github.com/infinite-dev22" align="right"><img align="right" width="45%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Qoute Of The Day" /></a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<b>Top Repositories</b>[
-](https://github-readme-stats.vercel.app/api/top-langs/?username=infinite-dev22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+<h3 align="left">Top Repositories</h3>
 <div>
 <div width="100%" align="center"><a href="https://github.com/infinite-dev22/A.D.A.M-VIRTUAL-ASSISTANT-BOT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=infinite-dev22&repo=A.D.A.M-VIRTUAL-ASSISTANT-BOT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/infinite-dev22/Java_Networking" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=infinite-dev22&repo=Java_Networking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
