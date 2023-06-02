@@ -1,4 +1,5 @@
 ![](https://github.com/infinite-dev22/infinite-dev22/assets/77667007/8f548690-72d2-468b-b260-71e69a4cb0b6)
+===========================================================================================================================================
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Mark Mwigo
 ===========================================================================================================================================
 
@@ -57,6 +58,8 @@ src="https://img.shields.io/github/followers/infinite-dev22?logo=github&style=fo
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/infinite-dev22/MultiMediaPlayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=infinite-dev22&repo=MultiMediaPlayer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/infinite-dev22/Petograph" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=infinite-dev22&repo=Petograph&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
+[![](https://visitcount.itsvg.in/api?id=infinite-dev22&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 ### Support Me
 
