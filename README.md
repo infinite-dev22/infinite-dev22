@@ -21,7 +21,7 @@ Jonathan Mark is Java developer with years of experience in software development
 </a>
 
 - 🌍  I'm based in Kampala, UG
-- ✉️  You can contact me at [mwigojm@gmail.com](mailto:mwigojm@gmail.com)
+- ✉️  You can contact me via [email(mailto:mwigojm@gmail.com)
 - 👨‍💻  I'm currently working on an ERP system(Java and JavaFX)
 - 🧠  I'm learning MaterialFX
 - 🤝  I'm open to collaborating on any projects
