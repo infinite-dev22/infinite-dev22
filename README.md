@@ -4,8 +4,7 @@
 
 <div align="center">
   <a href="#">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  ![github-user-contribution](https://github.com/user-attachments/assets/2b0b495f-de3c-47e4-a3a8-70976b08208b)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
